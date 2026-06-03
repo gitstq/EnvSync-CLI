@@ -1,0 +1,9 @@
+# EnvSync-CLI Dependencies
+# Zero dependencies - pure Python standard library only!
+# This project is designed to work without any external packages.
+
+# Optional: For development and testing only
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+# black>=23.0.0
+# flake8>=6.0.0
